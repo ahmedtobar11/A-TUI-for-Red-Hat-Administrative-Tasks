@@ -56,25 +56,25 @@ The script offers a comprehensive menu with the following options:
 
     *Clone the repository:*
 
-(```)bash
+```bash
 git clone https://github.com/yourusername/a-tui-for-red-hat-administrative-tasks.git
 
 
   *Navigate to the project directory:*
 
-(```)bash
+```bash
 cd a-tui-for-red-hat-administrative-tasks
 
 
 *Make the script executable:*
 
-(```)bash
+```bash
     chmod +x admin_menu.sh
 
 ## Usage:
 
     *Run the Script:*
-(```)bash
+```bash
     ./admin_menu.sh
 
   ## Navigate the Menu:
