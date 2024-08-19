@@ -47,3 +47,32 @@ Prerequisites
 whiptail: Required for the graphical TUI interface.
 sudo: Necessary for performing administrative tasks.
 Ensure you have the appropriate permissions to execute administrative commands.
+Prerequisites
+whiptail: Required for the graphical TUI interface.
+sudo: Necessary for performing administrative tasks.
+Ensure you have the appropriate permissions to execute administrative commands.
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/a-tui-for-red-hat-administrative-tasks.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd a-tui-for-red-hat-administrative-tasks
+Make the script executable:
+
+bash
+Copy code
+chmod +x admin_menu.sh
+Usage
+Run the Script:
+
+bash
+Copy code
+./admin_menu.sh
+Navigate the Menu:
+
+Use the whiptail interface to select options and provide the required information.
